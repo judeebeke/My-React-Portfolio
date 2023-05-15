@@ -1,6 +1,6 @@
 # My Portfolio Site
 
-My Portfolio Site built with React and Tailwind Css. The website is very responsive and adheres to accessibility standards. Please rate my site or send me your suggestions for improvement.
+My Portfolio Site built with React and Tailwind Css. The website is very responsive and adhere's to accessibility standards. Please rate my site or send me your suggestions for improvement.
 
 ## Getting Started with Create React App
 
