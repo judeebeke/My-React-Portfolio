@@ -1,7 +1,6 @@
-# React Meals App
+# My Portfolio Site
 
-React meals app is no special app but implements some key concept in web development which includes optimization, scalability, maintainability and reusability.
-Certain react tools were used to achieve these such as, React useReducer Hook for optimization,  custom hooks were created and reused to maintain clean code and reusability, useContext hook  was also used to manage state app wide.
+My Portfolio Site built with React and Tailwind Css. The website is very responsive and adheres to accessibility standards. Please rate my site or send me your suggestions for improvement.
 
 ## Getting Started with Create React App
 
