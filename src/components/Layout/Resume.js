@@ -6,7 +6,9 @@ const Resume = () => {
   return (
     <section className="section" id='resume'>
       <Heading headingTitle="RESUME" />
+      <a href='../assets/resume/myresume.pdf' download>
       <button className={`${buttonStyles} ${hoverLinkTransition} p-3`}>Download CV</button>
+      </a>
       <aside className="flex flex-col justify-center items-center border-r-2 border-l-2 w-9/12 border-main border-solid">
         <h3 className={thirdHeadingStyles}>Summary</h3>
         <div className="px-4">
